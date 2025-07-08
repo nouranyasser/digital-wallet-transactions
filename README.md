@@ -81,9 +81,7 @@ Below is a snapshot of the full dashboard (click to enlarge):
 
 Feel free to connect with me:
 
-- **LinkedIn**: [Your LinkedIn](#)
-- **GitHub**: [Your GitHub](#)
-
+- **LinkedIn**: (https://www.linkedin.com/in/nouran-yasser-582450280)
 ---
 
 🧠 *Data analysis turns numbers into decisions. This dashboard turns complexity into clarity.*
