@@ -63,7 +63,7 @@ This project aims to explore and present a detailed view of 5,000 digital wallet
 
 Below is a snapshot of the full dashboard (click to enlarge):
 
-![Dashboard Full View](./a778043e-1b27-4511-96c7-8ef38bbd9cd0.png)
+[![Dashboard Full View](./a778043e-1b27-4511-96c7-8ef38bbd9cd0.png](https://github.com/nouranyasser/digital-wallet-transactions/blob/main/DG-Dashboard.png)
 
 ---
 
